@@ -1,0 +1,39 @@
+body{
+    margin: 50px;
+
+font-family: Arial;
+}
+
+h1{
+    text-align: center;
+}
+
+.itens{
+padding: 20px;
+background-color: #111;
+margin: 20px;  
+}
+
+h2{
+    color: white;
+    margin: 0px;
+}
+
+p{
+    color: gray;
+}
+
+span{
+    color:#febe01;
+}
+
+
+
+a{
+    background: #febe01;
+    color: #332100;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 4px;
+    display: inline-block;
+}
